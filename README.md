@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daksh-7573
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning ...
 - 📫 Reach me by my email: daakshpatel1@gmail.com
 
 <!---
